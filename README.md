@@ -1,73 +1,77 @@
-# Welcome to your Lovable project
+# Injaazh - Digital Solutions That Drive Results
 
-## Project info
+![Injaazh Banner](/public/favicon.ico)
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🚀 About Us
 
-## How can I edit this code?
+**Injaazh Pvt. Ltd.** is a performance-driven creative agency dedicated to transforming bold ideas into exceptional digital experiences.
 
-There are several ways of editing your application.
+Founded by **Md Mamun Hossain**, we specialize in bridging the gap between complex technology and user-centric design. We don't just build websites; we build digital ecosystems that help startups and SMEs scale. Our hybrid approach combines robust back-end architecture with stunning front-end visuals to deliver speed, security, and SEO dominance.
 
-**Use Lovable**
+### Our Mission
+To empower businesses with digital tools that are not only visually striking but also engineered for growth, performance, and long-term success.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠 Tech Stack
 
-**Use your preferred IDE**
+This project is built using a modern, high-performance architecture:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+* **Core:** [React](https://reactjs.org/) + [Vite](https://vitejs.dev/) (Fast & Lightweight)
+* **Language:** [TypeScript](https://www.typescriptlang.org/) (Type-safe reliability)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/) + [shadcn/ui](https://ui.shadcn.com/)
+* **Animations:** [Framer Motion](https://www.framer.com/motion/) (Smooth interactions)
+* **Backend & Auth:** [Supabase](https://supabase.com/) (Database, Auth, Realtime)
+* **SEO:** React Helmet Async
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## ⚡ Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+* **Dynamic Blog System:** Managed via Supabase for real-time updates.
+* **Admin Dashboard:** Secure panel to manage team members and content.
+* **Responsive Design:** Fully optimized for Mobile, Tablet, and Desktop.
+* **SEO Optimized:** Meta tags, Open Graph support, and semantic HTML.
+* **Modern UI/UX:** Glassmorphism effects, smooth transitions, and dark/light mode support.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 💻 Getting Started
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Follow these steps to run the project locally:
 
-**Edit a file directly in GitHub**
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/mamunaio/injaazhmain.git](https://github.com/mamunaio/injaazhmain.git)
+    cd injaazhmain
+    ```
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+2.  **Install Dependencies**
+    ```bash
+    npm install
+    ```
 
-**Use GitHub Codespaces**
+3.  **Setup Environment Variables**
+    Create a `.env` file in the root directory and add your Supabase keys:
+    ```env
+    VITE_SUPABASE_URL=your_supabase_url
+    VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_key
+    ```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+4.  **Run Development Server**
+    ```bash
+    npm run dev
+    ```
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 📬 Contact
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+* **Website:** [injaazh.com](https://injaazh.com)
+* **Email:** hello@injaazh.com
+* **Phone:** +880 1XXX-XXXXXX
+* **Location:** Bangladesh
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+© 2022 - 2025 Injaazh Pvt. Ltd. All rights reserved.
